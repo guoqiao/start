@@ -1,0 +1,4 @@
+start
+=====
+
+phonegap start app
